@@ -1,6 +1,6 @@
 # EDA_Optimising_NYC_Taxis_Utkarsh_Gaigole
 
-# **README: NYC Taxi Data Analysis Notebook**
+
 
 ## **Project Overview**
 This Jupyter Notebook (`EDA_Assg_NYC_Taxi_Completed.ipynb`) contains an **exploratory data analysis (EDA)** of New York City taxi trip data. The objective is to identify patterns in taxi demand, optimize fleet allocation, and propose data-driven strategies for improving operational efficiency and revenue generation.
